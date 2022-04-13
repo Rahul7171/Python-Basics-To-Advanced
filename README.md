@@ -3,3 +3,4 @@
 - [Data Types & Variables](https://github.com/Rahul7171/Python-Basics-To-Advanced/blob/main/Python-Fundamentals/Data%20Types%20and%20variabels.ipynb)
 - [String Operations](https://github.com/Rahul7171/Python-Basics-To-Advanced/blob/main/Python-Fundamentals/String%20Operations.ipynb)
 - [Arithmetic Opera†ors](https://github.com/Rahul7171/Python-Basics-To-Advanced/blob/main/Python-Fundamentals/Arithmetic%20Operator.ipynb)
+- [Logical & Comparison](https://github.com/Rahul7171/Python-Basics-To-Advanced/blob/main/Python-Fundamentals/Comparison_%26_Logical_Operator.ipynb)
