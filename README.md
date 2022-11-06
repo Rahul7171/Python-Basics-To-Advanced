@@ -1,4 +1,4 @@
-# Awesome Web Development Resources ![Awesome][awesome-badge]
+# Web Development Resources 
 
 This is an awesome project about Web Development resources. ⚡
 
@@ -8,42 +8,276 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ---
 
-Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Rahul Bagal]() on [Twitter](https://twitter.com/RahulBagal3002).
 
-## Table of Contents
 
-- [Hosting](#hosting)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Remote Jobs](#remote-jobs)
-- [Photos](#photos)
-- [Illustrations](#illustrations)
-- [Icons](#icons)
-- [Fonts](#fonts)
-- [Youtube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Code Editors](#code-editors)
-- [Color Palettes](#color-palettes)
-- [UI Inspiration](#ui-inspiration)
-- [Docs](#docs)
-- [Animation Libraries](#animation-libraries)
-- [Charts](#charts)
-- [Chrome Extensions](#chrome-extensions)
-- [Website Optimization Tools](#website-optimization-tools)
-- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Newsletters](#newsletters)
-- [CSS Generators](#css-generators)
-- [Online Tools](#online-tools)
-- [UI Components](#ui-components)
-- [Vue UI libraries](#vue-ui-libraries)
-- [React UI libraries](#react-ui-libraries)
-- [Angular UI libraries](#angular-ui-libraries)
-- [Others](#others)
+
+##  Frontend Web Development:
+
+- [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
+- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
+- [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
+- [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
+    (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
+
+- **HTML5 and CSS3**
+    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+    - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
+    - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
+    - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
+    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
+    - [The Odin Project](https://www.theodinproject.com/)
+    - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
+    - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+    - [CSS Grid](https://cssgrid.io/)
+    - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
+    - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
+    - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+    - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
+    - [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+    - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
+    - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
+    - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
+    - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
+    - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
+    - [CSS Grid Garden Game](https://cssgridgarden.com/)
+
+- **Bootstrap4**
+
+    - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+    - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
+	- [Bootstrap4 Tutorial for beginners](https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+	- [Bootstrap4 blog top](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+	- [Bootstrap4 Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+	- [Learn Bootstrap4 | Tutlane](https://www.tutlane.com/tutorial/bootstrap)
+
+- **JavaScript**
+    - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [javascript info](https://javascript.info/)
+    - [Javascript30 | Wes Bos](https://javascript30.com/)
+    - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
+    - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
+    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
+    - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
+    - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
+    - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
+    - [Introduction to JavaScript | freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+    - [HTML Dog](http://www.htmldog.com/guides/javascript/)
+    - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
+    - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
+    - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
+    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
+    - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
+    - [Wes Bos list of courses](https://wesbos.com/courses/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [ES6 Cheatsheet](https://es6cheatsheet.com/)
+    - [RegexOne | Regular Expression course](https://regexone.com/)
+    - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
+
+
+- **JavaScript Frameworks**
+
+    - **Angular**
+        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
+        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
+        - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
+        - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
+        - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
+        - [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
+
+     - **React.js**
+        - [React JS - Conference Videos](https://www.reactjsvideos.com/)
+        - [Learn React for free | Scrimba](https://scrimba.com/g/glearnreact)
+        - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+        - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+        - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
+        - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
+        - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
+        - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+        - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
+        - [Hello World | React.js Org](https://reactjs.org/docs/hello-world.html)
+        - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+        - [React For Beginners | Wes Bos](https://reactforbeginners.com/) :heavy_dollar_sign:
+        - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
+        - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
+        - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
+
+     - **React Native**     
+        - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
+
+    - **Redux.js**
+        - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) :baby:
+        - [Redux Documentation](https://redux.js.org/introduction) :star:
+        - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+        - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+        - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
+        - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+        - [Introduction to the Redux Challenges | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
+        - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) :heavy_dollar_sign:
+
+    - **Vue.js**
+        - [Vue School](https://vueschool.io/courses) :free: + :heavy_dollar_sign:
+        - [Scrimba](https://scrimba.com/g/glearnvue)
+        - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
+        - [Getting started with VueJS 2](https://www.youtube.com/watch?v=nyJSd6V2DRI)
+        - [Vue.js News](https://news.vuejs.org/)
+        - [Vue.js Showcase - Made With Vue.js](https://madewithvuejs.com/)
+
+    - **Web Accessibility**
+        - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+        - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+        - [A Video Tutorial on Web Accessibility for Impaired Users | YouTube](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
+        - [WebAim Web Accessibility Resources and Tools](https://webaim.org/resources/)
+        - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
+        - [ARIA - Accessibility | MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
+- **Frontend DevTools**
+    - **Package Managers**
+        - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
+        - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
+        - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+
+    - **Bundlers**
+        - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
+        - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+        - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
+        - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
+        - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
+
+
+#  Hackathons and Events
+
+##  Top Global Hackathons 🌐
+
+
+|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
+|--|------ |---|---| ------ | ----| ----- |
+|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
+|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
+|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
+|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
+|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | n/a |
+|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | Dead page |
+|7 | [Hack In The North](https://www.hackinthenorth.com/)| India | - | - | March | N/A |
+|8 | [Hack Western](https://hackwestern.com/) | Western University | Yes  | Nov End | Mid Oct | 11/23/18 |
+|9 | [HackDTU](http://hackdtu.tech/) | India | No | - | - | Ended |
+|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - | N/A |
+|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - | Dead page |
+|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | India | No | August-September | - | Ended |
+|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - | Ended |
+|14 | [HackISU](https://hackisu.org/)| USA | No | October | - | Ended |
+|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | Ended |
+|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event | Ended, 2019 is open for pre-reg |
+|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
+|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
+|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
+|20 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | - | - |  - | Annually every October |
+|21 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|22 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
+|23 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|24 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|25 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
+|27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+
+
+
+----------------------------------------------------------
+
+##  Competitions 🏆
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
+|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
+|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
+|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
+|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
+|7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
+|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
+|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
+|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
+|11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
+|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
+|13| [Quest Ingenium](https://www.questingenium.com/) | -  |
+|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
+
+##   Hackathon Search Portals :dart:
+|s.no| Name  | Location | Category |
+|---| ------ |---| --- |
+|1| [HackSociety](https://hacksociety.tech/attend/)| India | ALL |
+|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
+|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
+|4| [Hackathon.io](http://www.hackathon.io/events) | Global | ALL |
+|5| [TechGIG - Search Online Competitions](https://www.techgig.com/challenge)| Online & On-Site |ALL |
+|6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
+|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
+|8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
+|9| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | Data Science |
+
+##  Events 🎫
+
+> **Check out these events for your region**
+
+1. Google Developer Day - Organized by GDG
+2. Google IO extended - Organized by GDG
+3. Google Solve for India
+3. Paytm Build for India Workshops [ Delhi, Bangalore ]
+4. NVIDIA Developer Connect [ Global ]
+5. AWS meetups [ Global ]
+6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
+8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+
+## Startup Summits, Competitions and Bootcamps :neckbeard:
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
+|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
+|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
+|6 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
+|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
+|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
+|12 | [HackerYou](https://hackeryou.com/) | Toronto |
+|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
+|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
+|15 | [RED Academy](https://redacademy.com) | Canada |
+|16 | [Flatiron School](https://flatironschool) | Online, USA |
+
+##  Hiring Challenges
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+
 
 ## Hosting:
 
